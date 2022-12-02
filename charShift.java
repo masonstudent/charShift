@@ -3,7 +3,6 @@ class charshift{
         char i = 'a';
         char j = 'A';
 
-        //System.out.println(Integer.toBinaryString(a))   
         printAlphabet(i); 
         printAlphabet(j);   
     }
